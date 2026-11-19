@@ -1,0 +1,4 @@
+# netlify.toml
+[build]
+  # 指定 Edge Functions 的目录
+  edge_functions = "netlify/edge-functions"
